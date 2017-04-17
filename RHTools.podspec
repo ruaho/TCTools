@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "RHTools"
-  s.version      = "0.1.16"
+  s.version      = "0.1.16.1"
   s.summary      = "常用工具类"
   s.homepage     = "https://github.com/ruaho/TCTools"
   s.license      = "MIT"
